@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\astronomia"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\manualdogit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "flex_turismos"
+	}
+}
